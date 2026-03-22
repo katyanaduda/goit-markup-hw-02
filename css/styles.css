@@ -1,6 +1,7 @@
 body{
-    font-family: "Roboto" sans-serif;
+    font-family: "Roboto", sans-serif;
     color:#2E2F42;
+    background-color:#fff;
 }
 
 ul{
@@ -32,6 +33,34 @@ button {
 .hero{
     background-color: #2e2f42;
 }
+
+.taste-title{
+    font-weight: 700;
+        font-size: 36px;
+        line-height: 1.11111;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #2e2f42;
+}
+
+.taste-card-bold{
+font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+}
+
+.taste-card-text{
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #434455;
+}
+
 .footer{
     background-color: #2e2f42;
 }
@@ -44,8 +73,8 @@ button {
     color: #2e2f42;}
 
 .header-logo-blue {
-    font-color: blue
-    font-weight: 700;
+    color: blue;
+    weight: 700;
         font-size: 18px;
         line-height: 1.16667;
         letter-spacing: 0.03em;
@@ -116,11 +145,37 @@ button {
 }
 
 .taste-card{
-    background: #fff
+    background: #fff;
+}
+
+.portfolio-title{
+    font-weight: 700;
+        font-size: 36px;
+        line-height: 1.11111;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #2e2f42;
+}
+
+.portfolio-list-bold{
+    font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
+
+.portfolio-list-text{
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
 }
 
 .footer-logo-white {
-font-color: white font-weight: 700;
+color: white;
+weight: 700;
     font-size: 18px;
     line-height: 1.16667;
     letter-spacing: 0.03em;
