@@ -80,3 +80,5 @@
 `«С14»` У стилях не повторюються значення властивостей, які задані браузером за замовчуванням. Наприклад, посиланням не потрібно вказувати `cursor: pointer`, а абзацам `font-style: normal` або `font-weight: 400`.
 
 `«С15»` Заголовок `<h2>` “Our Features” не стилізований/прихований. В цій ДЗ його поки має бути видно. Приховування цього заголовка буде в наступній ДЗ.
+
+  ![Image alt](https://github.com/katyanaduda/goit-markup-hw-02/blob/main/61e1438f-4d6c-4865-9c88-f4e27673d1f6screencapture-sergeykorobka-github-io-for-test-02-2025-11-27-13_25_23.png)
